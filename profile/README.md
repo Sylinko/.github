@@ -10,7 +10,9 @@
 
 ## Projects
 
-[![Everywhere](https://github.com/sylinko/.github/blob/main/images/everywhere-link.webp)](https://github.com/DearVa/Everywhere)
+<a href="https://github.com/DearVa/Everywhere">
+  <img src="https://github.com/sylinko/.github/blob/main/images/everywhere-link.webp" width="60%" alt="Everywhere" />
+</a>
 
 ### 📚 Docs
 
@@ -30,6 +32,6 @@
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the Sylinko Team</sub>
+  <p>Built with ❤️ by the Sylinko Team</p>
 </div>
 
