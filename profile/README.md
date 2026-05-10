@@ -10,8 +10,8 @@
 
 ## Projects
 
-<a href="https://github.com/DearVa/Everywhere">
-  <img src="https://github.com/sylinko/.github/blob/main/images/everywhere-link.webp" width="60%" alt="Everywhere" />
+<a href="https://github.com/Sylinko/Everywhere">
+  <img src="https://github.com/sylinko/.github/blob/main/images/everywhere-link.webp" width="50%" alt="Everywhere" />
 </a>
 
 ### 📚 Docs
