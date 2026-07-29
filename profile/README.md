@@ -28,6 +28,8 @@
   > A high performance, real-time markdown renderer for AI/LLM for Avalonia.
 - **[CSharpMath.Avalonia](https://github.com/Sylinko/CSharpMath.Avalonia)**
   > LaTeX rendering for Avalonia.
+- **[ClassicDiagnostics.Avalonia](https://github.com/Sylinko/ClassicDiagnostics.Avalonia)**
+  > Bringing the classic F12 DevTools back to Avalonia 12+
 
 ---
 
