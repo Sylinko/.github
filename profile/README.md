@@ -36,6 +36,7 @@ Libraries we develop or maintain for desktop UI, including projects from our mai
 | [Motion.Avalonia](https://github.com/Sylinko/Motion.Avalonia) | Declarative layout transitions, seekable animations, and timeline playback with live Avalonia controls. |
 | [ClassicDiagnostics.Avalonia](https://github.com/Sylinko/ClassicDiagnostics.Avalonia) | Classic F12 developer tools for Avalonia 12 and later. |
 | [CSharpMath.Avalonia](https://github.com/Sylinko/CSharpMath.Avalonia) | Our fork of CSharpMath's existing Avalonia integration, updated for Avalonia 12. |
+| [RaTeX / RaTeX.Avalonia](https://github.com/Sylinko/RaTeX.Net) | Unofficial .NET bindings for [RaTeX](https://github.com/erweixin/RaTeX), with LaTeX layout and Avalonia 12 rendering. |
 | [shad-ui](https://github.com/Sylinko/shad-ui) | Our fork of the existing shad-ui library, with new controls, performance improvements, and visual refinements toward a Luma-inspired style. |
 
 ## Tools and documentation
