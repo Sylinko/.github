@@ -33,6 +33,7 @@ Libraries we develop or maintain for desktop UI, including projects from our mai
 | Project | Focus |
 | --- | --- |
 | [LiveMarkdown.Avalonia](https://github.com/DearVa/LiveMarkdown.Avalonia) | Markdown rendering for streaming AI responses, maintained by DearVa. |
+| [ExpressionBinding.Avalonia](https://github.com/Sylinko/ExpressionBinding.Avalonia) | Runtime-bound, strongly executed expressions for Avalonia bindings. |
 | [Motion.Avalonia](https://github.com/Sylinko/Motion.Avalonia) | Declarative layout transitions, seekable animations, and timeline playback with live Avalonia controls. |
 | [ClassicDiagnostics.Avalonia](https://github.com/Sylinko/ClassicDiagnostics.Avalonia) | Classic F12 developer tools for Avalonia 12 and later. |
 | [CSharpMath.Avalonia](https://github.com/Sylinko/CSharpMath.Avalonia) | Our fork of CSharpMath's existing Avalonia integration, updated for Avalonia 12. |
